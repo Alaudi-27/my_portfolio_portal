@@ -95,7 +95,7 @@ a {
 }
 
 .slide-area {
-    width: 120%;
+    width: 100%;
     height: 90%;
     border-radius: 8px;
     /* 画像群の相対基準点 */
